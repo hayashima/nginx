@@ -16,3 +16,4 @@ bin
 .ruby-gemset
 .ruby-version
 .idea
+.tags*
